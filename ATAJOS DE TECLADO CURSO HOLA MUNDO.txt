@@ -1,0 +1,18 @@
+1 clg = imprime un nuevo terminal para comandos
+2 Control + k + p  Habre lista del explorer
+3 Control + s guarda los avances
+4 Control + b despliega y oculta el explorerador de archivos
+5 Control + z desacer los cambios realizados
+6 Control + } funsion comments activar y desactivar
+
+
+
+Curso hola mundo 
+https://youtu.be/Ei1y51K8jQk
+
+
+
+Aprende VS Code ahora! | curso completo de VSCode desde CERO
+
+Accede a todos mis cursos aquí y obtén un 10% de descuento para siempre en la suscripción con el cupón 'off10": https://academia.holamundo.io/bundles/acceso-a-todo Mi música libre de copyright para youtube y twitch: En Spotify: https://spoti.fi/2OdCxP5 En Apple Music: https://apple.co/3cgI3sm Discord: https://bit.ly/3GnTA6y Twitter: https://twitter.com/_nasch_ Instagram: https://instagram.com/naschurmann Contenido: 00:00:00 Porque aprender VSCode? 00:00:36 Requisitos 00:01:18 Instalación 00:02:34 Vista general e instalación del idioma español 00:06:42 Explorador de archivos 00:17:48 Búsqueda de texto en archivos 00:20:10 Control de versiones con GIT 00:30:31 Debugger, el depurador de VSCode 00:40:36 Extensiones de VSCode, temas sugeridos 00:45:20 Atajos de teclado para navegar través del código 00:47:55 Intellisense 00:48:50 Snippets personalizados 00:53:36 Buscador de archivos 00:54:44 Paleta de comandos 00:56:44 Personalización de VSCode 01:00:17 Atajo de teclado personalizado 01:04:04 Cambiar terminal por defecto 01:04:57 Agradecimientos y despedida
+
